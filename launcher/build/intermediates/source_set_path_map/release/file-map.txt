@@ -1,0 +1,9 @@
+com.DefaultCompany.PlanetConquest.launcher-pngs-0 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\build\generated\res\pngs\release
+com.DefaultCompany.PlanetConquest.launcher-resValues-1 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\build\generated\res\resValues\release
+com.DefaultCompany.PlanetConquest.launcher-rs-2 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\build\generated\res\rs\release
+com.DefaultCompany.PlanetConquest.launcher-mergeReleaseResources-3 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.PlanetConquest.launcher-mergeReleaseResources-4 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.PlanetConquest.launcher-merged_res-5 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.PlanetConquest.launcher-main-6 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\src\main\res
+com.DefaultCompany.PlanetConquest.launcher-release-7 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\launcher\src\release\res
+com.DefaultCompany.PlanetConquest.launcher-packaged_res-8 D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\build\intermediates\packaged_res\release

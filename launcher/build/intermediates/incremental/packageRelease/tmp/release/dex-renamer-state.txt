@@ -1,0 +1,4 @@
+#Tue Dec 06 13:28:36 BRT 2022
+base.0=D\:\\Backup\\Arquivos\\Faculdade\\TCC\\Planet Conquest\\PlanetConquestAndroid\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

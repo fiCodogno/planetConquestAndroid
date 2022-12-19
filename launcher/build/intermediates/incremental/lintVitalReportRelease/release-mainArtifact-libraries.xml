@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid@@:unityLibrary::release"
+      jars="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\build\.transforms\f46cadb053106833fd7899962ec02917\transformed\out\jars\classes.jar;D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\build\.transforms\f46cadb053106833fd7899962ec02917\transformed\out\jars\libs\unity-classes.jar"
+      resolved="PlanetConquestAndroid:unityLibrary:unspecified"
+      folder="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\build\.transforms\f46cadb053106833fd7899962ec02917\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>

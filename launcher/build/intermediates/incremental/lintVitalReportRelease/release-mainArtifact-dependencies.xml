@@ -1,0 +1,17 @@
+<dependencies>
+  <compile
+      roots="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid@@:unityLibrary::release">
+    <dependency
+        name="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid@@:unityLibrary::release"
+        simpleName="PlanetConquestAndroid:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid@@:unityLibrary::release,__local_aars__:D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\libs\unity-classes.jar:unspecified@jar">
+    <dependency
+        name="D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid@@:unityLibrary::release"
+        simpleName="PlanetConquestAndroid:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:D:\Backup\Arquivos\Faculdade\TCC\Planet Conquest\PlanetConquestAndroid\unityLibrary\libs\unity-classes.jar"/>
+  </package>
+</dependencies>

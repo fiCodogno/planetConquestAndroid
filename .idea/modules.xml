@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlanetConquestAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/PlanetConquestAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/PlanetConquestAndroid.launcher.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/PlanetConquestAndroid.unityLibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>
